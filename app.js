@@ -1,2 +1,2 @@
 console.log("Hola Luciano")
-console.log("Termina tu tarea")
+console.log("O mejor estudia si queres")
